@@ -1,0 +1,11 @@
+[Assembly Check Agent]
+
+Assembly:
+freezer_final_assembly.asm
+
+Detected:
+- Compressor interference
+- Door hinge collision risk
+
+Risk Level:
+Medium

@@ -1,0 +1,17 @@
+[Drawing Analysis Agent]
+
+Loading drawing:
+freezer_shell_A12.dwg
+
+Detected:
+- 42 dimensions
+- 18 bend edges
+- 12 layer groups
+
+Material Candidates:
+- SGCC galvanized steel
+- PET liner
+
+Context Usage:
+Input Tokens: 12,844,221
+Output Tokens: 2,331,009

@@ -1,0 +1,10 @@
+[Sheet Metal Agent]
+
+Detected:
+- Bend Radius: 0.8mm
+- K-Factor: 0.42
+- Estimated Unfold Length: 1822.33mm
+
+Manufacturing Suggestions:
+- Optimize bend sequence
+- Increase flange clearance
